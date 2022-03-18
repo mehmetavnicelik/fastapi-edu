@@ -4,6 +4,7 @@
 -A functional API is built with **authentication,CRUD operation and validation** features.
 
 -**PostgreSQL** with **SQLAlchemy** is used for data storage. 
+
 -To be able to make and follow changes easily in the database, **Alembic** data migration tool is used.
 
 -You can run the code after having the required venv, with the command below:
