@@ -1,0 +1,2 @@
+implement how to see all data of specified user
+implement deleting a user
